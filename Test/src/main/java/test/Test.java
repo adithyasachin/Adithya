@@ -1,9 +1,14 @@
-package test;
+package SuperKeyword;
 
 class B
 {
-public static void main(String args[])
+public static SuperKeyword
 {
+	int a=10,b=20,c;
+	public void add()
+	{
+		c=a+b;
+	}
 System.out.print("learnjava");
 
 }
